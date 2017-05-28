@@ -9,4 +9,4 @@ pandas==0.20.0rc1
 jsontableschema
 tableschema
 coveralls
-workbenchacceptpackage==0.1
+workbenchacceptpackage==0.2
