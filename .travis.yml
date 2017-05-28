@@ -1,0 +1,9 @@
+language: python
+python:
+  - "3.6"
+# command to install dependencies
+install: "pip3 install -r requirements.txt"
+# command to run tests
+script: coverage run --source=src/data,src/features,src/models,src/visualization test_runner.py
+after_success:
+  coveralls
