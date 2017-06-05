@@ -1,7 +1,7 @@
 Workbench-Acceptence-Experiment
 ==============================
 
-The final Workbench Acceptence Experiment
+The final Workbench Acceptence Experiment.
 
 Quick overview
 ------------
