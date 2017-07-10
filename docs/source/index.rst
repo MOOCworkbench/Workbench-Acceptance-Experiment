@@ -1,4 +1,4 @@
-Welcome to pythonpackagegxxkm's documentation!
+Welcome to pythonpackageginlj's documentation!
 =========================================
 
 Contents:
